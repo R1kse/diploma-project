@@ -2,7 +2,7 @@
 
 Дизайн-система приложения доставки здорового питания (Казахстан).
 
-🔗 [Открыть на GitHub Pages](https://01051998beka.github.io/diploma/)
+🔗 [Открыть на GitHub Pages](https://r1kse.github.io/diploma-project/)
 
 ## Стек
 
